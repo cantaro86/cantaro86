@@ -10,7 +10,7 @@ Check out my second account, where I develop mathematical methods for neuroscien
 
 Outside of the work context, I am interested in many other things such as traveling, football, motorcycles, history, manga, crypto trading, and DeFi. 
 
-Do you want to contact me?    <a href="<https://www.linkedin.com/in/nicolacantarutti/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+Do you want to contact me?    <a href="https://www.linkedin.com/in/nicolacantarutti">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
 #### My GitHub Stats
